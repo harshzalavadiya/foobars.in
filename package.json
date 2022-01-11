@@ -1,0 +1,24 @@
+{
+  "name": "foobars.in",
+  "version": "1.0.0",
+  "description": "redirect to harsh.cloud",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshzalavadiya/foobars.in.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshzalavadiya/foobars.in/issues"
+  },
+  "homepage": "https://github.com/harshzalavadiya/foobars.in#readme",
+  "dependencies": {
+    "@vercel/node": "^1.12.1",
+    "fastify": "^3.25.3"
+  }
+}
